@@ -1,0 +1,25 @@
+h1,
+h2,
+h3 {
+    color: blue;
+    text-align: center;
+    padding: 1rem;
+    margin: 1rem;
+}
+
+textarea {
+    width: 90%;
+    margin: 1rem;
+    display: block;
+    height: 10vh;
+    padding: 1rem;
+}
+
+#output{
+
+    border: 1px solid black;
+    height: 10vh;
+    width: 80%;
+    margin: 1rem;
+    pad: 1rem;
+}
