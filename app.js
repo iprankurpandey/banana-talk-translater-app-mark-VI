@@ -4,8 +4,7 @@ let outputDiv =document.querySelector("#output")
 
 // let serverURL = "https://lessonfourapi.tanaypratap.repl.co/translate/yoda.json";
 
-var serverURL ="https://api.funtranslations.com/translate/minion.json"
-	
+let serverURL = "https://api.funtranslations.com/translate/minion.json"
 function getTranslationURL(input)
 {
     return serverURL + "?" + "text=" + input
