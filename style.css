@@ -24,11 +24,18 @@ textarea {
 hr {
     margin: 2rem 0rem;
 }
+br {
+    margin: 2rem 0rem;
+}
 
 /* container */
-.container {
+.container{
     padding-left: 1rem;
     padding-right: 1rem;
+    height: 7rem;
+    width: 25rem;
+    display: block;
+ 
 
 }
 
@@ -37,6 +44,15 @@ hr {
     margin: auto;
 }
 
+
+
+/* buttons*/
+
+.btn-translate {
+    display: block;
+    margin: auto;
+   
+}
 /* links */
 
 .link {
@@ -66,7 +82,7 @@ hr {
 .navigation {
     background-color: var(--primary-color);
     color: white;
-    padding:1rem;
+    padding:0.5rem;
     border-bottom-left-radius: 1rem;
 }
 
@@ -82,7 +98,7 @@ font-size: 1.1rem;
 .navlink{
    
     text-decoration: none;
-    color: #ffffff;
+    color: yellow
 
 
 }
