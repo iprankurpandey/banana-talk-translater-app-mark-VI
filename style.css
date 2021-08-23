@@ -10,7 +10,8 @@
 body {
     font-family: 'Courgette', cursive;
     margin: 0rem;
-}textarea {
+}
+textarea {
     width: 90%;
     margin: 1rem;
     display: block;
