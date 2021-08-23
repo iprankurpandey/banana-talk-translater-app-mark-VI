@@ -11,3 +11,14 @@ body {
     margin: auto;
     background-image: url('minions.jpg');
 }
+/* list item inline */
+.list-item-inline {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+/* br */
+
+br {
+    margin: 1rem 0rem;
+}
