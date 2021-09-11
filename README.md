@@ -1,4 +1,4 @@
-# Welcome to Portfolio site!
+# Welcome to minion translator app
 
 This project is part of NeoGCamp Mark-VI assesment . this is a small minion translater app that converts human language into minion language 
 
